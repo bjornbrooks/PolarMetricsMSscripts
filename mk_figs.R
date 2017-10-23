@@ -1,7 +1,7 @@
 rm(list=ls())
 
 fig7newdata <- FALSE
-spath <- '.'
+spath <- paste(getwd(), "/", sep="")
 WLEFlon <- -90.2723 # Longitude of WLEF
 WLEFlat <- 45.9459 # Latitude of WLEF
 AMFname <- 'AMF_US-PFa_BASE_HR_9-1.csv' # Name of Ameriflux data file
