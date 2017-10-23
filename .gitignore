@@ -1,8 +1,6 @@
 # Specific files
-get_narr.R
 AMF_US-PFa_BASE-BADM_9-1.zip
 AMF_US-PFa_BIF_LATEST.xlsx
-narr/
 
 # History files
 .Rhistory
